@@ -1,0 +1,66 @@
+.sideback{
+  padding-right: 0% !important;
+  padding-left: 0%!important;
+  margin-left: 0%!important;
+  margin-right: 0%!important;
+}
+.background{
+  background-image: url("./Components/Assets/Banner-01-01.png");
+  height: 30vh;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+  
+}
+.portfolioimg{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+.imgposition{
+  position: relative;
+  bottom: 50px;
+}
+/* .inpbtn{
+  display: none;
+} */
+
+#dropArea {
+ 
+  /* border: 2px dashed #ccc; */
+  text-align: center;
+  padding: 20px;
+  margin: 0 auto;
+}
+#dropArea.hover {
+  border-color: #333;
+}
+#dropImage {
+  max-width: 100%;
+  max-height: 100%;
+}
+.dropbox{
+  border: 3px dashed black;
+  border-radius: 20px;
+  /* margin: 50px; */
+}
+.labeltext{
+  width: 140px;
+  padding: 20px;
+  text-align: center;
+  margin-top: 10px;
+  border-radius: 35px;
+  color: white;
+}
+.custom-input {
+  width: 300px; 
+  height: 70px;
+  border: 2px solid black;
+  border-radius: 20px; 
+  padding: 10px 20px;
+  outline: none; 
+}
+.project_description{
+  width: 300px;
+}
